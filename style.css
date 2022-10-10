@@ -1,0 +1,32 @@
+#yellow_bar_chart{
+  fill:yellow;
+  stroke:black;
+  stroke-width:3px;
+  
+}
+
+#green_bar_chart{
+  fill:green;
+  stroke:white;
+  stroke-width:3px;
+  
+}
+
+#line_line_chart{
+ stroke:black; 
+  fill:none;
+  stroke-width:3px;
+}
+
+#path_line_chart{
+ stroke:black; 
+  fill:none;
+  stroke-width:3px;
+    stroke-dasharray:10;
+}
+
+#pie_chart{
+  Fill:cyan;
+  stroke:black;
+  stroke-width:5px;
+}
